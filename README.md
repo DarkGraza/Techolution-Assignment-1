@@ -16,6 +16,6 @@ We have 3 user defined functions in the loop for various purposes as following:
   2) code_parse() for checking whether the code block is present on the page
   3) store() is utilised to store necessary data in variables as a list from time to time as
 
-Programs ends with writing parsed data from each page into separate csv files
+The Program ends with writing parsed data from each page into separate csv files
 
 
